@@ -1,18 +1,40 @@
 # Secret credentials — NEVER upload this
 .env
+.envrc
 
-# Python virtual environment — too large, not needed on GitHub
+# Python virtual environment
 venv/
+.venv
+env/
+ENV/
 
 # Auto-generated Python files
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
+*.pyx
 .pytest_cache/
+.cache
 
 # Test output — generated fresh on each run
 screenshots/
 reports/
+htmlcov/
+.coverage
+coverage.xml
 
-# VS Code settings
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# VS Code
 .vscode/
+tempCodeRunnerFile.py
+
+# MyPy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/

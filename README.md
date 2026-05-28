@@ -46,7 +46,7 @@ Built with **Python + Selenium + Pytest** using the **Page Object Model (POM)** 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/foneapp-selenium-automation.git
+git clone https://github.com/abhirajsfdc/foneapp-selenium-automation.git
 cd foneapp-selenium-automation
 
 # 2. Create virtual environment
@@ -58,7 +58,7 @@ source venv/bin/activate     # Mac/Linux
 pip install -r requirements.txt
 
 # 4. Add your credentials
-cp .env.example .env
+copy .env.example .env
 # Edit .env with your login details
 ```
 
