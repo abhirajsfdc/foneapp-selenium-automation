@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Abhiraj Singh 👋
 
-<!--
-**abhirajsfdc/abhirajsfdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 QA Lead | Test Automation Engineer  
+📍 India | Delhi
 
-Here are some ideas to get you started:
+## About Me
+I build automated test frameworks that catch bugs before users do.
+Currently working on Selenium + Python automation for web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+**Automation**
+- Selenium WebDriver (Python)
+- Pytest | Page Object Model
+- WebDriver Manager
+
+**Testing Types**
+- Functional Testing
+- Regression Testing
+- Smoke & Sanity Testing
+- UI / End-to-End Testing
+
+**Tools**
+- VS Code | Git | GitHub
+- Chrome DevTools
+- Jira (Bug Tracking)
+
+## 📂 Featured Projects
+
+### 🤖 [Web Automation](link-to-your-repo)
+Selenium + Python automation suite for admin web portal.
+Tests login flow, 2FA/OTP, and functional scenarios.
+`Selenium` `Python` `Pytest` `Page Object Model`
+
+## 📊 GitHub Stats
+
