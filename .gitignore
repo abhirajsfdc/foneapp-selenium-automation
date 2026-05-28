@@ -1,0 +1,18 @@
+# Secret credentials — NEVER upload this
+.env
+
+# Python virtual environment — too large, not needed on GitHub
+venv/
+
+# Auto-generated Python files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Test output — generated fresh on each run
+screenshots/
+reports/
+
+# VS Code settings
+.vscode/
